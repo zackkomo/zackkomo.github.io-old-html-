@@ -10127,3 +10127,10 @@ form{
 .project p{
   height: auto;
 }
+
+.g-recaptcha div
+{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
